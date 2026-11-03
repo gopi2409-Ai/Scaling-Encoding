@@ -1,4 +1,4 @@
-Feature Engineering: Scaling & Encoding
+## Feature Engineering: Scaling & Encoding
 
 ## Overview
 Today I learned about feature scaling and encoding using Python and Scikit-learn.
